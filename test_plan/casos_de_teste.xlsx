@@ -1,0 +1,18 @@
+# Plano de Testes - QA Store
+
+## Funcionalidades testadas:
+- Login Web (Selenium + BDD)
+- Login API (pytest + requests)
+
+## Estratégia:
+- Testes funcionais
+- Testes de API
+- Testes automatizados com CI/CD (GitHub Actions)
+
+## Ferramentas:
+- Python, Behave, Selenium, pytest, GitHub Actions
+
+## Critérios de Sucesso:
+- Login válido retorna página inicial ou token de autenticação
+- CI roda testes com sucesso nos pushes
+
