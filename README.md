@@ -218,4 +218,4 @@ QA_STORE_PROJECT/
 │
 ├── README.md
 └── requirements.txt
-## 
+
