@@ -126,11 +126,16 @@ Configuração dos workflows de CI no GitHub Actions.
 
 # Executar testes com Behave
 
-behave features/
+
+´´behave behave_tests/features/´´
+# Executar testes com Behave gerando relatórios
+
+´´behave -f allure_behave.formatter:AllureFormatter -o reports/ features/
+allure serve reports/``
 
 # Executar testes com Robot
 
-robot tests/
+´´robot robot_tests/login/login_tests.robot´´
 
 # Ativar virtualenv e instalar dependências
 
