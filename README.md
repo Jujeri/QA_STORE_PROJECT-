@@ -1,7 +1,33 @@
   # 🧪 QA_STORE_PROJECT — Estrutura de Projeto de Testes Automatizados
 
 Este repositório contém um projeto de testes automatizados utilizando **Behave (BDD)**, **Robot Framework**, **Selenium**, e integração com **banco de dados**. Abaixo está a descrição de cada pasta para facilitar o entendimento da arquitetura.
+## Autora
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/167039592?v=4" width="90" alt="Juliana Avatar"><br/>
+      <strong>Juliana Sousa</strong><br/>
+      Analista de Testes | QA<br/>
+      <a href="https://github.com/Jujeri">GitHub</a> |
+      <a href="https://www.linkedin.com/in/julianasousa91/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
+## Co-autora
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/116562223?v=4" width="90" alt="Sâmilly Avatar"><br/>
+      <strong>Sâmilly Carvalho</strong><br/>
+      Analista de Testes | QA<br/>
+      <a href="https://github.com/samillycarvalho">GitHub</a> |
+      <a href="https://www.linkedin.com/in/samilly-carvalho-qa/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📂 `_fixtures/` — Dados de Apoio
@@ -193,28 +219,3 @@ QA_STORE_PROJECT/
 ├── README.md
 └── requirements.txt
 
-
-### Autora
-- Nome: Juliana Sousa;
-- Analista de testes | QA.
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/167039592?v=4" width="90" alt="Juliana Avatar"><br/>
-      <strong>Juliana Sousa</strong><br/>
-      <a href="https://github.com/Jujeri">GitHub</a> |
-      <a href="https://www.linkedin.com/in/julianasousa91/">LinkedIn</a>
-    </td>
-  </tr>
-</table>
-## Co-autora
-    </tr>
-   <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/116562223?v=4" width="90" alt="Sâmilly Avatar"><br/>
-      <strong>Sâmilly Carvalho</strong><br/>
-      <a href="https://github.com/samillycarvalho">GitHub</a> |
-      <a href="https://www.linkedin.com/in/samilly-carvalho-qa/">LinkedIn</a>
-    </td>
-      </tr>
-</table> 
