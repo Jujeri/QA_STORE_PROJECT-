@@ -1,1 +1,15 @@
-# environment.py - Conteúdo de exemplo
+env:
+  serverest:
+    server_back: https://serverest.dev/
+    server_front: https://front.serverest.dev/login
+    endpoint_login: login
+    endpoint_user: usuarios
+    endpoint_product: produtos
+    endpoint_car: carrinhos
+    endpoint_buy: concluir-compras
+    endpoint_cancel: cancelar-compras
+
+
+
+
+

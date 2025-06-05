@@ -10,10 +10,9 @@ robotframework-pythonlibcore==4.4.1
 robotframework-requests==0.9.7
 robotframework-selenium2library==3.0.0
 robotframework-seleniumlibrary==6.3.0
+robotframework-sshlibrary==3.8.0
+robotframework-stacktrace==0.4.1
 robotframework-yamllibrary==0.2.8
-behave==1.2.6
-webdriver-manager==4.0.1
-python-dotenv==1.0.1
 behave==1.2.6.dev6
 selenium==4.21.0
 allure-behave==2.13.5
