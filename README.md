@@ -200,7 +200,6 @@ QA_STORE_PROJECT/
 
 <table>
   <tr>
-      </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/167039592?v=4" width="90" alt="Juliana Avatar"><br/>
       <strong>Juliana Sousa</strong><br/>
@@ -210,10 +209,12 @@ QA_STORE_PROJECT/
   </tr>
 </table>
 ## Co-autora
-    </td>
+    </tr>
    <td align="center">
       <img src="https://avatars.githubusercontent.com/u/116562223?v=4" width="90" alt="Sâmilly Avatar"><br/>
       <strong>Sâmilly Carvalho</strong><br/>
       <a href="https://github.com/samillycarvalho">GitHub</a> |
       <a href="https://www.linkedin.com/in/samilly-carvalho-qa/">LinkedIn</a>
     </td>
+      </tr>
+</table> 
