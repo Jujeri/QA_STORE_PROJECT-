@@ -194,7 +194,7 @@ QA_STORE_PROJECT/
 └── requirements.txt
 
 
-### Autor
+### Autora
 - Nome: Juliana Sousa;
 - Analista de testes | QA.
 
